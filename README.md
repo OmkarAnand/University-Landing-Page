@@ -7,5 +7,14 @@ It also includes a **lead capture form** integrated with a **Pipedream API workf
 ---
 
 ## 🚀 Live Demo
-👉 **[View Project Here]()**  
+👉 **[View Project Here](https://omkaranand.github.io/University-Landing-Page/)**  
 Hosted using **GitHub Pages** with SSL.
+
+## 🧩 Tech Stack
+
+| Layer | Technology Used |
+|-------|------------------|
+| **Frontend** | HTML, CSS, JavaScript, Bootstrap |
+| **Backend** | Node.js, Express.js |
+| **API Integration** | Pipedream Workflow |
+| **Hosting** | GitHub Pages (Frontend), Render (Backend) |

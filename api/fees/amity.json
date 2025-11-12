@@ -1,0 +1,9 @@
+{
+  "university": "Amity University",
+  "fees": {
+    "B.Tech": {"min": 200000, "max": 350000},
+    "MBA": {"min": 350000, "max": 550000},
+    "BBA": {"min": 180000, "max": 250000},
+    "MCA": {"min": 220000, "max": 300000}
+  }
+}

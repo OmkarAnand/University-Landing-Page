@@ -1,0 +1,19 @@
+{
+  "university": "Amity University",
+  "courses": [
+    {"name": "B.Tech", "duration": "4 years", "specializations": ["CSE", "ECE", "ME"], "fees": {"min": 200000, "max": 350000}},
+    {"name": "MBA", "duration": "2 years", "specializations": ["Marketing", "Finance", "HR"], "fees": {"min": 350000, "max": 550000}},
+    {"name": "BBA", "duration": "3 years", "specializations": ["General", "International"], "fees": {"min": 180000, "max": 250000}},
+    {"name": "MCA", "duration": "2 years", "specializations": ["Data Science", "Cloud"], "fees": {"min": 220000, "max": 300000}}
+  ],
+  "placements": {
+    "highest": 4500000,
+    "average": 800000,
+    "top_recruiters": ["TCS", "Accenture", "Deloitte", "Amazon"]
+  },
+  "facilities": {
+    "hostel": true,
+    "labs": true,
+    "sports": ["Cricket", "Football", "Tennis"]
+  }
+}

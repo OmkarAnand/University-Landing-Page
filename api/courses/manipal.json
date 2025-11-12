@@ -1,0 +1,19 @@
+{
+  "university": "Manipal University",
+  "courses": [
+    {"name": "B.Tech", "duration": "4 years", "specializations": ["CSE", "IT", "Biotech"], "fees": {"min": 220000, "max": 380000}},
+    {"name": "MBA", "duration": "2 years", "specializations": ["Operations", "Finance", "Analytics"], "fees": {"min": 360000, "max": 560000}},
+    {"name": "B.Design", "duration": "4 years", "specializations": ["Product", "UI/UX"], "fees": {"min": 240000, "max": 320000}},
+    {"name": "MCA", "duration": "2 years", "specializations": ["AI", "Cybersecurity"], "fees": {"min": 230000, "max": 310000}}
+  ],
+  "placements": {
+    "highest": 4300000,
+    "average": 750000,
+    "top_recruiters": ["Infosys", "Capgemini", "EY", "Microsoft"]
+  },
+  "facilities": {
+    "hostel": true,
+    "labs": true,
+    "sports": ["Basketball", "Swimming", "Badminton"]
+  }
+}

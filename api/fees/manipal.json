@@ -1,0 +1,9 @@
+{
+  "university": "Manipal University",
+  "fees": {
+    "B.Tech": {"min": 220000, "max": 380000},
+    "MBA": {"min": 360000, "max": 560000},
+    "B.Design": {"min": 240000, "max": 320000},
+    "MCA": {"min": 230000, "max": 310000}
+  }
+}
